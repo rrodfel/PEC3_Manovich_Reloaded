@@ -12,12 +12,14 @@ Fecha: 25/05/2023
 
 
 
-## Prologo
+## Prólogo
 
 Antes de hablar de hibridación en el software conviene ver qué es este concepto y, para ello, nada mejor que preguntar directamente a Manovich. En *El software toma el mando*, cuando habla de Google Maps como un ejemplo perfecto de híbrido, esto se debe a que “se agrupan distintos tipos de medios para crear una nueva representación” (Manovich, 2013). Tanto si tomamos los elementos culturales como aquellos que forman directamente parte de la multimedia, los videojuegos son unas de las máximas expresiones de este concepto. Cuando alguien piensa en uno tal y como los entendemos hoy, aunque sea en su forma más básica, es posible que tenga como mínimo gráficos y sonidos combinados, pero buscamos algo más que una simple suma, queremos que esos medios funcionen juntos como un solo mecanismo, en palabras de Manovich, “una nueva especie” (Manovich, 2013).
 
 
 ## Redescubriendo la hibridación: Persona 5 Royal
+
+![Cabecera Persona 5 Royal](/persona5R.jpg) 
 
 Al pensar en el concepto de hibridación en los videojuegos, en su forma más básica y visceral pero a la vez completa, el primero que se me viene a la mente es Persona 5. Por ponernos un poco en contexto, para quien no conozca esta saga, se trata de un spinoff de una serie de JRPG de “captura de criaturas” bastante popular en Japón: Shin Megami Tensei. Mientras que la original se queda ahí, poniendo su foco en los combates y el coleccionismo, los “Persona” ya nacen como un híbrido entre géneros. Toman esos elementos que tenían sus predecesores y los simplifica para agregar nuevos, en este caso mucho más propios de las novelas visuales y los juegos de simulación social; mezclando a la vez un relato más costumbrista de la sociedad japonesa desde el punto de vista de unos estudiantes, pero dándole un toque de elementos fantásticos, basados en la mitología y el folklore global, que tienen su culmen en las partes más JRPG.
 
@@ -37,6 +39,8 @@ Como hibridación cultural, además de incluir todo un calendario escolar típic
 Para terminar con Persona 5, me gustaría hacer mención especial a su banda sonora. Que, si bien es un apartado que por definición ya forma parte de lo que es la hibridación en un videojuego, en este caso además interfiere en la trama como un elemento narrativo más. Un ejemplo de esto está en el leitmotif que suena cuando realizas las actividades cotidianas después de clase por Tokio, que representa la sociedad más pura. El mismo tema suena —más retorcido y distorsionado hasta resultar difícil de reconocer— cuando los protagonistas entran en la mazmorra que representa la mente de uno de los principales villanos del juego, un político que, precisamente, quiere retorcer esa misma sociedad para sus propios beneficios.
 
 ## Redescubriendo la hibridación: Pony Island
+
+![Cabecera Pony Island](/ponyisland.jpg) 
 
 Pasemos ahora a Pony Island. Tenía ciertos reparos en analizar dos videojuegos, por el hecho de que fueran muy similares, pero creo que este título tiene la suficiente personalidad y diferencias en aquellos conceptos y medios que fusiona como para separse, no solo de Persona 5, sino de la mayoría de videojuegos. Y es que Pony Island es lo que se considera una metaficción. Consciente de sí mismo, rompe continuamente la cuarta pared, saliéndose incluso de la ventana de juego para agarrar e integrar en su interior todo lo que tiene alrededor: el sistema operativo, una plataforma de juegos como Steam o hasta le mismo jugador. Pero vayamos por partes.
 
