@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+### Cultura Digital - UOC
 
 
 Autor: Raúl Rodríguez Felipe
@@ -64,11 +64,16 @@ Y para entender la hibridación con la propia Steam, que mejor que una anécdota
 
 ## Conclusiones
 
-La hibridación es un continuo en los videojuegos. Ya sea un "triple A" como Persona 5, que puede jugar sobre seguro con elementos más tradicionales, o un "indie" como Pony Island, en el que se busca innovar con nuevas formas de lo que entendemos como juego. Estamos viendo ya la integración de nuevos medios —como la realidad virtual o la IA— aun en formas prototípicas, pero que hacen preguntarse qué podrá llegar a hacer gente tan creativa como Daniel Mullins (creador de Pony Island) con estas tecnologías. No quiero ni imaginar la sensación que podría haber dado esa máquina de arcade si el "ser" que te habla fuera un futuro ChatGTP especialmente confeccionado para ello y no solo un conjunto de frases y algoritmos prediseñados (¡bueno, en realidad sí que quiero imaginarmelo!). Sin duda, nos aguarda un futuro prometedor a quienes disfrutamos de este medio.
+La hibridación es un continuo en los videojuegos. Ya sea un "triple A" como Persona 5, que puede jugar sobre seguro con elementos más tradicionales, o un "indie" como Pony Island, en el que se busca innovar con nuevas formas de lo que entendemos como juego. Estamos viendo ya la integración de nuevos medios —como la realidad virtual o la IA— aun en formas prototípicas, pero que hacen preguntarse qué podrá llegar a hacer gente tan creativa como Daniel Mullins (creador de Pony Island) con estas tecnologías. No quiero ni imaginar la sensación que podría haber dado esa máquina de arcade si el "ser" que te habla fuera un futuro ChatGTP especialmente confeccionado para ello y no solo un conjunto de frases y algoritmos prediseñados (¡bueno, en realidad sí que quiero imaginármelo!). Sin duda, nos aguarda un futuro prometedor a quienes disfrutamos de este medio.
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Robyn/theflighttofarobyn. (2020). **Musical secrets and leitmotifs in Persona 5 Royal's soundtrack**. https://youtu.be/nuwP21XVE44
+* Finnegan Liz. (2016). **Pony Island is the Cosest We've Come to a Real Life Polybius**. https://www.escapistmagazine.com/pony-island-is-the-closest-weve-come-to-a-real-life-polybius/
+* Wikipedia. https://es.wikipedia.org/wiki/Metaficci%C3%B3n
+* Imagen Manovich. http://manovich.net/index.php/about CC BY-NC-SA
+* Imágenes videojuegos. https://store.steampowered.com. Fair Use.
 
 
 ----
